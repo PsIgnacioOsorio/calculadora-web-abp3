@@ -34,7 +34,7 @@
 
             // Validación: Control de entradas para evitar errores sobre numeros
             if (isNaN(num1) || isNaN(num2)) {
-                alert("❌ Error: Uno o ambos valores ingresados no son números válidos.");
+                alert("Error: Uno o ambos valores ingresados no son números válidos.");
                 return null; // Retorna null si la validación falla
             }
 

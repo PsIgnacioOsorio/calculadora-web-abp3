@@ -78,16 +78,18 @@ calculadora-web-abp3/
 ## 📸 Evidencias y Capturas de Pantalla
 
 ### Interfaz Principal
-![Interfaz Principal - Agregar captura aquí]
+![Interfaz Principal](assets/img/menu-html.png)
 
 ### Menú de Operaciones
-![Menú de Operaciones - Agregar captura aquí]
+![Menú de Operaciones](assets/img/menu-calculo.png)
 
 ### Resultado de Operación
-![Resultado de Operación - Agregar captura aquí]
+![Resultado de Operación](assets/img/seleccion-valores.png)
+![Resultado de Operación2](assets/img/resultados.png)
+![Resultado de Operación2](assets/img/Despedida.png)
 
 ### Validación de Errores
-![Validación de Errores - Agregar captura aquí]
+![Validación de Errores](assets/img/error-nan.png)
 
 ---
 
@@ -110,6 +112,6 @@ Proyecto desarrollado como parte del Módulo 3 de Fundamentos de Programación e
 
 ## 🔗 Link del Deploy
 
-[[Agregar link del deploy aquí](https://psignacioosorio.github.io/calculadora-web-abp3/)] 
+[[https://psignacioosorio.github.io/calculadora-web-abp3]] 
 
     https://psignacioosorio.github.io/calculadora-web-abp3/
