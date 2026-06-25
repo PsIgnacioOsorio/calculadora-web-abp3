@@ -5,6 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Calculadora Web</title>
+</head>
+
+<body>
+
+    <h1>Proyecto Módulo 3: Calculadora Web</h1>
     <script>
 
         // Mapeo de objetos de las operaciones disponibles
@@ -85,7 +90,7 @@
                 switch (opcion) {
                     // Llamada de las funciones internas
                     case "1": {
-                        const numeros = pedirNumeros(); 
+                        const numeros = pedirNumeros();
                         if (numeros !== null) {
                             let resultado = sumar(numeros.n1, numeros.n2);
                             alert(`El resultado de la Suma es: ${resultado}`);
@@ -126,10 +131,6 @@
         // Ejecutamos el programa principal
         iniciarCalculadora();
     </script>
-</head>
-
-<body>
-
 </body>
 
 </html>
