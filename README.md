@@ -48,8 +48,10 @@ Esta aplicación educativa tiene como propósito:
 calculadora-web-abp3/
 ├── index.html                 # Página principal con interfaz HTML
 ├── assets/
+│   ├── img/                   # Carpeta para almacenar imágenes y evidencias
 │   └── js/
 │       └── calculadora.js     # Lógica de la calculadora en JavaScript
+├── .git/                      # Repositorio Git
 └── README.md                  # Este archivo
 ```
 
